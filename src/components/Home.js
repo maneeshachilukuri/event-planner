@@ -62,7 +62,7 @@ const Home = () => {
           <>
             <div className="text-center mb-8">
               <h1 className="text-3xl font-bold mb-4">Welcome {user ? user.name : 'User'}!</h1>
-              <p className="text-lg mb-4">Welcome to the Event Planner app, created by Ravi Buraga. Manage your events efficiently with ease.</p>
+              <p className="text-lg mb-4">Welcome to the Event Planner app, created by Maneesha Buraga. Manage your events efficiently with ease.</p>
               <button
                 onClick={toggleEventForm}
                 className="bg-pink-700 text-white px-6 py-2 rounded-lg shadow-md hover:bg-pink-600 transition duration-300"
